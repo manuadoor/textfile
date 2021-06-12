@@ -5,4 +5,4 @@
 # License: MIT License
 # ----------------------------------------------------------
 
-translate.whatsapp.com
+0.0.0.0 whatsapp.com
